@@ -1,5 +1,5 @@
 # moondomainforsale  
-Script Name: Moon Domain For Sale Script  
+Script Name: Moon Domain For Sale Script Template  
 Script URI: https://github.com/mumingulmez/moondomainforsale  
 Description: A free and ready-to-use script on all your sites with just a few key settings.  
 Version: 1.0.13  
@@ -11,7 +11,7 @@ Please check the settings.php file for the installation.
   
 ---  
 Türkçe  
-Script Adı: Moon Satılık Domain Scripti  
+Script Adı: Moon Satılık Domain Scripti ve Teması  
 Komut Dosyası URI'sı: https://github.com/mumingulmez/moondomainforsale  
 Açıklama: Ücretsiz ve sadece birkaç temel ayar ile tüm sitelerinizde kullanıma hazır bir script.  
 Sürüm: 1.0.13  
